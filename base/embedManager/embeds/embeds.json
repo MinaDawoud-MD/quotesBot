@@ -1,0 +1,29 @@
+{
+  "error": {
+    "content": null,
+    "embeds": [
+      {
+        "description": "<:zprohibited:921533455056126012> Error: {$error}",
+        "color": 3026998
+      }
+    ]
+  },
+  "success": {
+    "content": null,
+    "embeds": [
+      {
+        "description": "<:zsuccess:921533454095613982> Success: {$response}",
+        "color": 3026998
+      }
+    ]
+  },
+  "info": {
+    "content": null,
+    "embeds": [
+      {
+        "description": "<:zwarn:921533454594736198> Info: {$info}",
+        "color": 3026998
+      }
+    ]
+  }
+}
